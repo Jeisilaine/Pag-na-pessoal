@@ -1,0 +1,38 @@
+body {
+    font-family:Helvetica;
+    text-align:center;
+    color: #f5f4fb;
+    background-color: lab(67.1% 25.58 -16.28);
+    padding:0;
+    margin: 0;
+  }
+nav {
+    display: flex;
+    justify-content:space-around;
+    padding: 25px; 
+    border-bottom: 1px solid #fffbff;
+}
+nav ul {
+    align-items:center;
+    list-style:square;
+}
+
+ul li{
+    margin-right:12px;
+}
+ul li a { 
+    color:#8a2761;
+}
+h1 {
+  font-size: 32px;
+}
+
+img {
+  border: 3px solid #73135b;
+}
+
+footer {
+  padding: 20px;
+  border-top:1px solid #f1eff1;
+
+}
