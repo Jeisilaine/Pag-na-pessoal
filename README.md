@@ -30,7 +30,7 @@ Você pode abrir os arquivos HTML localmente ou acessar pelo GitHub Pages (se pu
 
 ## 📬 Contato
 
-- 📧 Gmail: ajesilaine@gmail.com  
+- 📧 Gmail: jeisilainenascimento@gmail.com  
 - 📸 Instagram: [@jhase_x03](https://www.instagram.com/jhase_x03)
 
 
